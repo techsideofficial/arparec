@@ -1,14 +1,14 @@
 {
   "projects": [
     {
-      "img_url": "https://placehold.co/1920x1080",
-      "title": "skibidi",
-      "description": "toilet"
+      "img_url": "https://image.modcdn.io/mods/dc2f/3768754/646f3d63-6c39-435e-b5fe-1421af6.2.jpg",
+      "title": "Oculus Homes (BONELAB)",
+      "description": "Oculus Homes is a mod for BONELAB that  aims to recreate the iconic Oculus Home environments in BONELAB.<br/>These environments are the exact models that are used in the headset.<br/><a href=\"https://mod.io/g/bonelab/m/oculus\">Check it out!</a>"
     },
     {
-      "img_url": "https://placehold.co/1920x1080",
-      "title": "oow",
-      "description": "oo"
+      "img_url": "https://image.modcdn.io/mods/176d/4991115/toystory3deathmatch1.1.png",
+      "title": "Toy Story 3: Deathmatch (BONELAB)",
+      "description": "This is a port of the Bendito Hideout from Toy Story 3: The Video Game, transformed into a deathmatch map!<br/><a href=\"https://mod.io/g/bonelab/m/ts3dm\">Check it out!</a>"
     }
   ]
 }
