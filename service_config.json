@@ -3,5 +3,5 @@
     "apiUrl": "https://prod-freya.arparec.xyz",
     "pilgrimUrl": "https://pilgrim.cl.prod.live-service.arparec.xyz/science/website",
     "socialUrl": "https://raw.githubusercontent.com/techsideofficial/arparec/refs/heads/main/social_config.json",
-    "projectUrl": "https://raw.githubusercontent.com/techsideofficial/arparec/refs/heads/main/projects_config.json"
+    "projectsUrl": "https://raw.githubusercontent.com/techsideofficial/arparec/refs/heads/main/projects_config.json"
 }
