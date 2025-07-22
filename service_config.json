@@ -1,6 +1,6 @@
 {
     "cdnUrl": "https://freya-cdn.arparec.xyz",
-    "apiUrl": "https://prod-freya.arparec.xyz",
+    "apiUrl": "https://webapi-public-service-prod02.ol.arparec.xyz",
     "pilgrimUrl": "https://pilgrim.cl.prod.live-service.arparec.xyz/science/website",
     "socialUrl": "https://raw.githubusercontent.com/techsideofficial/arparec/refs/heads/main/social_config.json",
     "projectsUrl": "https://raw.githubusercontent.com/techsideofficial/arparec/refs/heads/main/projects_config.json"
