@@ -3,5 +3,27 @@
     "allowedOrigins": [
       "*"
     ]
-  }
+  },
+  "routes": [
+    {
+      "route": "/*",
+      "methods": [
+        "get",
+        "head",
+        "post",
+        "put",
+        "delete",
+        "connect",
+        "trace",
+        "options",
+        "patch"
+      ],
+      "allowedRoles": [
+        "anonymous"
+      ],
+      "headers": {
+        "Access-Control-Allow-Origin": "*"
+      }
+    }
+  ]
 }
