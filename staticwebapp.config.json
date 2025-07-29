@@ -1,14 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "https://netconfig.arparec.xyz/*",
-      "methods": [
-        "get",
-        "head"
-      ],
-      "headers": {
-        "Access-Control-Allow-Origin": "*"
-      }
-    }
-  ]
-}
+{}
